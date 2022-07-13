@@ -1,0 +1,22 @@
+{
+  "name": "dash",
+  "version": "1.0.0",
+  "description": "docs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iputt/Dash.git"
+  },
+  "author": "lfy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Iputt/Dash/issues"
+  },
+  "homepage": "https://github.com/Iputt/Dash#readme",
+  "dependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}

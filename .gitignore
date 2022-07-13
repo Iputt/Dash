@@ -1,0 +1,7 @@
+/doc/
+/target/
+/.idea/
+/offer.iml/
+
+/.code/
+/node_modules/
